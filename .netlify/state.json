@@ -1,0 +1,16 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Berlin",
+			"country": {
+				"code": "DE",
+				"name": "Germany"
+			},
+			"subdivision": {
+				"code": "BE",
+				"name": "Land Berlin"
+			}
+		},
+		"timestamp": 1661766700599
+	}
+}
